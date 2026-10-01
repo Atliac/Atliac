@@ -7,4 +7,4 @@
 > **I**s only safe till `Drop` reclaims it all;
 >
 > **A** single `unwrap` panics the whole test,\
-> **C**ircle brings a new bug like all the rest.
+> **C**ycle brings a new bug like all the rest.
