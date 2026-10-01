@@ -1,6 +1,10 @@
 ## Atliac `/ˈætliæk/` · AT-lee-ack · 阿特-利-艾克
 
-> **A**tliac **T**hinks **L**ife **I**s **A** **C**ircle.\
-> 生活是一个圈。\
-> Every iteration has new bugs.\
-> 每次迭代都有新 bug.
+> **A**tliac writes what the compiler checks,\
+> **T**hinks the borrow checker ends all the wrecks;
+>
+> **L**ife is a lifetime, threaded call by call,\
+> **I**s only safe till `Drop` reclaims it all;
+>
+> **A** single `unwrap` panics the whole test,\
+> **C**ircle brings a new bug like all the rest.
